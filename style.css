@@ -1,0 +1,6 @@
+.resume-header, .resume-section-title:after, .resume-timeline:before{
+    background-color: rgb(0, 0, 62) !important;
+}
+.resume-section-title{
+    color: rgb(0, 0, 140) !important;
+}
