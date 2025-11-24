@@ -4,3 +4,12 @@
 .resume-section-title{
     color: rgb(0, 0, 140) !important;
 }
+.primary-info{
+    display: flex !important;
+    flex-direction: column;
+    align-items: center !important;
+    justify-content: center !important;
+}
+.name{
+    text-align: center;
+}
